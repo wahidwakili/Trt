@@ -164,10 +164,10 @@ logo=("""\033[1;91m
          \033[1;97m   888     888  T88b     888     
           \033[1;97m  888     888   T88b    888\033[1;32m       XD
 \033[1;37m--------------------------------------------------
-[~] Author   : Ramzan Tanha
-[~] Facebook : Muhammad Adnan
-[~] Tool     : Paid
-[~] Version  : 49.0
+[~] Author   : Wahid Wakili
+[~] Facebook : Wahid Wkili
+[~] Tool     : FREE
+[~] Version  : 50.0
 \033[1;37m----------------------------------------------""")
 def linex():
 	print('\033[1;37m----------------------------------------------')
