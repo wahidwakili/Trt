@@ -167,7 +167,7 @@ logo=("""\033[1;91m
 [~] Author   : Ramzan Tanha
 [~] Facebook : Muhammad Adnan
 [~] Tool     : Paid
-[~] Version  : 30.0
+[~] Version  : 49.0
 \033[1;37m----------------------------------------------""")
 def linex():
 	print('\033[1;37m----------------------------------------------')
